@@ -1,0 +1,17 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+constants/index
+androidKeyStore.txt
+
+liruinan.md
+
+# macOS
+.DS_Store
